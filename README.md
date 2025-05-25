@@ -1,6 +1,8 @@
 # Projet_903
 Projet de vision par ordinateur (Construction d'une application de reconnaissance d'objets, à partir de leurs distributions de couleurs)
 
+🎓 Projet réalisé dans le cadre du Master MMAA et du CMI en Mathématiques Appliquées – Université Savoie Mont Blanc
+
 Ce mini-projet a pour but de construire progressivement une application qui segmente un flux vidéo en
  temps-réel et reconnaît des "objets", que vous lui avez montré.
 
